@@ -100,10 +100,6 @@ I am a **continuous learner**, always eager to stay updated with the latest tren
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-blue?style=flat-square" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=flat-square" alt="Open Source Lover"/>
-</p>
 
 <p align="center">✨ "In summary, my background in full-stack development is strong, versatile, and backed by a passion for creating impactful web applications that meet and exceed user expectations." ✨</p>
 
