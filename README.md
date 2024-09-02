@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-Passionate-orange?style=flat-square" alt="Passionate Full-Stack Developer"/>
-  <img src="https://img.shields.io/badge/Learner-BSc%20Computer%20Science%20and%20Engineering-blue?style=flat-square" alt="BSc Computer Science and Engineering"/>
+  <img src="https://img.shields.io/badge/Learner-BSc%20Computer%20Science%20and%20Engineering-blue?style=flat-square" alt="Bachelor Computer Science and Engineering"/>
   <img src="https://img.shields.io/badge/Email-rhythanvarsha23@gmail.com-red?style=flat-square" alt="Email"/>
 </p>
 
