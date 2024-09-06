@@ -90,7 +90,7 @@ I am a **continuous learner**, always eager to stay updated with the latest tren
 
 <p align="center">
   <a href="mailto:rhythanvarsha23@gmail.com"><img src="https://img.shields.io/badge/Email-rhythanvarsha23@gmail.com-red?style=for-the-badge" alt="Email"></a>
-  <a href="www.linkedin.com/in/rhythan-varsha-janakiram-67b556293" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/rhythan-varsha-janakiram-67b556293" alt="LinkedIn">LINKED IN</a>
   <a href="https://github.com/Rhythanvarsha"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge" alt="GitHub"></a>
 </p>
 
