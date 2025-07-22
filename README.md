@@ -29,7 +29,7 @@ I'm a <b>highly motivated and detail-oriented individual</b> with a profound pas
   <tr>
     <th>Front-End</th>
     <th>Back-End</th>
-     <th>Languages</th>
+     <th>Programming Languages</th>
     <th>Databases</th>
     <th>Version Control & DevOps</th>
   </tr>
