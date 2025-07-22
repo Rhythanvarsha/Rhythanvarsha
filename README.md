@@ -29,6 +29,7 @@ I'm a <b>highly motivated and detail-oriented individual</b> with a profound pas
   <tr>
     <th>Front-End</th>
     <th>Back-End</th>
+     <th>Languages</th>
     <th>Databases</th>
     <th>Version Control & DevOps</th>
   </tr>
@@ -46,6 +47,14 @@ I'm a <b>highly motivated and detail-oriented individual</b> with a profound pas
         <li>Python/Django</li>
         <li>RESTful APIs</li>
         <li>Java Spring Boot</li>
+      </ul>
+    </td>
+ <td>
+      <ul>
+        <li>C programming</li>
+        <li>Python</li>
+        <li>Cpp programming</li>
+        <li>JAVA</li>
       </ul>
     </td>
     <td>
