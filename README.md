@@ -99,8 +99,8 @@ I am a **continuous learner**, always eager to stay updated with the latest tren
 <h2 align="center">🌟 Let's Connect!</h2>
 
 <p align="center">
-  <a href="mailto:rhythanvarsha23@gmail.com"><img src="https://img.shields.io/badge/Email-rhythanvarsha23@gmail.com-red?style=for-the-badge" alt="Email"></a>
-<a href="www.linkedin.com/in/rhythan-varsha-janakiram-67b556293" alt="LinkedIn">Linked In</a>
+  <a href="mailto:rhythanvarsha20@gmail.com"><img src="https://img.shields.io/badge/Email-rhythanvarsha23@gmail.com-red?style=for-the-badge" alt="Email"></a>
+<a href="https://www.linkedin.com/in/rhythan-varsha-janakiram-67b556293" target="_blank">LinkedIn</a>
   <a href="https://github.com/Rhythanvarsha"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge" alt="GitHub"></a>
 </p>
 
