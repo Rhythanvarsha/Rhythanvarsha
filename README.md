@@ -45,6 +45,7 @@ I'm a <b>highly motivated and detail-oriented individual</b> with a profound pas
         <li>Node.js, Express.js</li>
         <li>Python/Django</li>
         <li>RESTful APIs</li>
+        <li>Java Spring Boot</li>
       </ul>
     </td>
     <td>
